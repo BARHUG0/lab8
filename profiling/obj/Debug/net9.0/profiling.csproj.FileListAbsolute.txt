@@ -1,0 +1,15 @@
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.AssemblyInfoInputs.cache
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.AssemblyInfo.cs
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.csproj.CoreCompileInputs.cache
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.sourcelink.json
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\bin\Debug\net9.0\profiling.exe
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\bin\Debug\net9.0\profiling.deps.json
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\bin\Debug\net9.0\profiling.runtimeconfig.json
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\bin\Debug\net9.0\profiling.dll
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\bin\Debug\net9.0\profiling.pdb
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.dll
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\refint\profiling.dll
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.pdb
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\profiling.genruntimeconfig.cache
+C:\UVG\2025\Ciclo2\TeoriaComputacion\lab8\profiling\obj\Debug\net9.0\ref\profiling.dll
